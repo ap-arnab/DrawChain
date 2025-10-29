@@ -4,7 +4,8 @@
 A simple Solidity smart contract that lets players **pull cards from an on-chain deck** with **provable fairness** using a **commit–reveal** scheme.  
 Built for learning and experimenting with randomness, fairness, and on-chain logic.
 
----
+<img width="1920" height="931" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/c10b0091-37ad-4040-a458-85990f29305e" />
+
 
 ## 🚀 Features
 - 🃏 52-card deck stored on-chain  
