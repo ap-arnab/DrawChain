@@ -33,6 +33,8 @@ Copy code
 
 ---
 
+Smart Contract Deployment link:https://celo-sepolia.blockscout.com/address/0x42effd96593887ef308Ec1087DF1Efea1C81119C
+
 ## 📜 Contract Overview
 
 | Function | Description |
@@ -89,4 +91,3 @@ Copy code
 
 Would you like me to add a **Remix deploy guide** or a **Hardhat test script** section in it too?
 
-Contract details: 0x42effd96593887ef308Ec1087DF1Efea1C81119C
